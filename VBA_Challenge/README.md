@@ -72,18 +72,42 @@ For i = 0 To 11
 </p>
 </details>
 
-#### **Result comparison**
+<details><summary><b>Results Comparison</b></summary>
+<p>
+
 While using the refactoring within the code, it is noticeable the improvement on time code performance. The following Tables shown the comparison before and after refactoring.
 
-> **Table 1: 2017 Stock Analysis**
+> *Table 1: 2017 Stock Analysis*
 
 
 | Before Refactoring | After Refactoring |
 | --- | --- |
-| Insert the link | ![2017_After](/VBA_Challenge/Resources/VBA_Challenge_2017.png) |
+| ![2017_Before](/GreenStock_Analysis/Resources/VBA_2017.png) | ![2017_After](/VBA_Challenge/Resources/VBA_Challenge_2017.png) |
+
+> *Table 2: 2018 Stock Analysis*
+
+| Before Refactoring | After Refactoring |
+| --- | --- |
+| ![2018_Before](/GreenStock_Analysis/Resources/VBA_2018.png) | ![2018_After](/VBA_Challenge/Resources/VBA_Challenge_2018.png) |
+
+</p>
+</details>
 
 ## **Summary**
+In this section we will answer to the following questions
 
+1. What are the advantages or disadvantages of refactoring code?
+
+> *Table 3: Advantages / Disadvantages of refactoring
+
+| Advantages of Refactoring | Disadvantages of Refactoring |
+| --- | --- |
+| - Provides cleaner code | - Existing code is not providing clear information |
+| - Improves changes that could occur in future | - The Analyst could not have a clear understanding of the main goal |
+| - Good approach to maintain the code | - It might create an error in the code |
+
+
+2. How to these pros and cons apply to refactoring the original VBA script?
 
 This work belongs to [^1].
 Unit [^2].
