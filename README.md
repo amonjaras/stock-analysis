@@ -4,4 +4,3 @@
 
 
 ## VBA Challenge go [here](https://github.com/amonjaras/stock-analysis/tree/main/VBA_Challenge)
-
