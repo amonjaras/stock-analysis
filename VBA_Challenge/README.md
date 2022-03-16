@@ -3,7 +3,8 @@
 
 ## **Results**
 
-#### **Writing the code**
+<details><summary><b>Writing the code</b></summary>
+<p>
 
 ###### Step 1a: Create a *tickerIndex* variable equal to zero in order to get the correct index within the four different arrays.
 
@@ -68,6 +69,9 @@ For i = 0 To 11
 
     Next i
 ```
+</p>
+</details>
+
 #### **Result comparison**
 While using the refactoring within the code, it is noticeable the improvement on time code performance. The following Tables shown the comparison before and after refactoring.
 
