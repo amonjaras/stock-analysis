@@ -1,6 +1,8 @@
 # **Report VBA Stock Analysis Challenge**
 ## **Overview of the Project**
-
+Seteve wanted to find the total daily volume and yearly return of each stock, so he could advise his parents what are the best options for investing.
+Since final results were successful [Green Stocks](https://github.com/amonjaras/stock-analysis/blob/main/GreenStock_Analysis/green_stocks.xlsm); now he wants to expand the dataset to include the entire stock market over the last few years.
+In order to fulfill the needs, we will need to refactor the code.
 ## **Results**
 
 <details><summary><b>Writing the code</b></summary>
@@ -109,8 +111,12 @@ In this section we will answer to the following questions
 
 2. How to these pros and cons apply to refactoring the original VBA script?
 
+| Pros | Cons |
+| --- | --- |
+|The code it self is cleaner and is executed in a more efficient way | For a company, in terms of budget, this code refactor could be rejected, since original code is giving the proper results.
+
 This work belongs to [^1].
-Unit [^2].
+Course [^2].
 [^note]:
-[^1]: Audrey MONJARAS :mexico: :canada:
-[^2]: Unit 2 Excel VBA
+[^1]: Author: Audrey MONJARAS :mexico: :canada:
+[^2]: Data Analytics: Unit 2 Excel VBA
