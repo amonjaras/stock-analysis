@@ -1,6 +1,7 @@
 # Report VBA Stock Analysis Challenge
 ## Overview of the Project
 
+<<<<<<< HEAD
 #### Step 1a: Create a *tickerIndex* variable equal to zero in order to get the correct index within the four different arrays.
 
 'tickerIndex = 0'
@@ -25,6 +26,8 @@ For i = 0 To 11
 
 
 #### Step 3a: Inside *Step 2b* we create an script to increase *tickerVolumes* to the current stock, using *tickerIndex* as the index itself
+=======
+>>>>>>> c11154fc4cf9d5d56552a5a674e0772d97bcfbd1
 
 
 ## Results
