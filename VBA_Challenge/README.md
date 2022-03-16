@@ -69,7 +69,14 @@ For i = 0 To 11
     Next i
 ```
 #### **Result comparison**
+While using the refactoring within the code, it is noticeable the improvement on time code performance. The following Tables shown the comparison before and after refactoring.
 
+> **Table 1: 2017 Stock Analysis**
+
+
+| Before Refactoring | After Refactoring |
+| --- | --- |
+| Insert the link | ![2017_After](/VBA_Challenge/Resources/VBA_Challenge_2017.png) |
 
 ## **Summary**
 
