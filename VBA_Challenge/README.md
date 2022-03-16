@@ -72,3 +72,10 @@ For i = 0 To 11
 
 
 ## **Summary**
+
+
+This work belongs to [^1].
+Unit [^2].
+[^note]:
+[^1]: Audrey MONJARAS :mexico: :canada:
+[^2]: Unit 2 Excel VBA
